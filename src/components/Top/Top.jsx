@@ -7,8 +7,11 @@ function Top() {
   return (
    <div id='top'>
     <img id='photo' src={avatar} />
+    <div>
     <h1 id='title'> Jessica Randall </h1>
     <h4 id='london'>London, Untited Kingdom </h4>
+    </div>
+   
     <label id='lab'>'Front-end developer and avid reader.'</label>
    </div>
 

@@ -5,12 +5,13 @@
     align-items: center;
     justify-content: center;
     padding-top: 40px; 
+    gap: 40px;
 }
 #title{
     color: white;
 }
 #london{
-    color: yellow;
+    color:hsl(75, 94%, 57%);
 }
 #lab{
     color: white;
@@ -19,4 +20,7 @@
     width: 100px;
     height: 100px;
     border-radius: 50%;
+}
+h4{
+    margin: 5px;
 }

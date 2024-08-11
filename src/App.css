@@ -3,6 +3,6 @@ main{
   flex-direction: column;
   width: 400px;
   height: 600px;
-  background-color: rgb(55, 57, 59);
+  background-color:hsl(0, 0%, 12%);
   border-radius: 15px;
 }

@@ -6,21 +6,25 @@
     align-items: center;
     padding-top: 40px;
     justify-content: space-between;
-    
 
 }
 .slectionItem{
     width: 80%;
     height: 40px;
     border-radius: 10px;
-    background-color: rgb(117, 114, 114);
+    background-color: hsl(0, 0%, 20%);
     color: white;
+    border: none;
     
 }
-#slectionItem1{
+.button:hover{
+    background-color:hsl(75, 94%, 57%);
+    color: black;
+}
+/*#slectionItem1{
     width: 80%;
     height: 40px;
     border-radius: 10px;
     background-color: yellow;
 
-}
+}*/
